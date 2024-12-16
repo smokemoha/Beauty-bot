@@ -6,3 +6,4 @@ dist/
 htmlcov/
 coverage.xml
 app/.DS_Store
+.DS_Store
