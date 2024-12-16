@@ -10,7 +10,7 @@ if command_exists poetry; then
     echo "Poetry detected. Setting up environment with Poetry..."
     
     # Install dependencies with Poetry
-    poetry install
+    poetry install --no-root
     
     # Run the application
     poetry run python app/main.py
