@@ -50,8 +50,10 @@ RUN chmod +x /entrypoint.sh
 
 
 # Set the entry point to the entrypoint script
-ENTRYPOINT ["/entrypoint.sh"]
+# ENTRYPOINT ["/entrypoint.sh"]
 
 
 # Run the uvicorn command, telling it to use the app object imported from app.main.
-CMD ["uvicorn", "app.main:app", "--proxy-headers", "--host", "0.0.0.0", "--port", "8000"]
+# CMD ["uvicorn", "app.main:app", "--proxy-headers", "--host", "0.0.0.0", "--port", "8000"]
+
+CMD ["python", "app/main.py"]

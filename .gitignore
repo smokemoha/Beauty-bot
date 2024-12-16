@@ -5,3 +5,4 @@ dist/
 *.egg-info
 htmlcov/
 coverage.xml
+app/.DS_Store
