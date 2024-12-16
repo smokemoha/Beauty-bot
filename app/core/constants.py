@@ -1,0 +1,7 @@
+import os
+from dotenv import load_dotenv
+
+GOOGLE_API_KEY = os.getenv("GEMINI_API_KEY")
+
+(CHOOSING, BOOKING_SERVICE, BOOKING_DATE, BOOKING_TIME, 
+ BOOKING_CONFIRM, SELECTING_LANGUAGE) = range(6)

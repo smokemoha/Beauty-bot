@@ -1,0 +1,76 @@
+{
+    "7020007597": {
+        "user_id": 7020007597,
+        "language": "en",
+        "selected_service": "Gel polish removal (with membership card)",
+        "selected_date": "2024-12-16T00:00:00",
+        "selected_time": "14:00:00",
+        "last_interaction": "2024-12-16T12:59:47.584111",
+        "appointments": [
+            {
+                "service": "Gel polish removal (with membership card)",
+                "date": "2024-12-16T00:00:00",
+                "time": "14:00:00"
+            },
+            {
+                "service": "Gel polish removal (with membership card)",
+                "date": "2024-12-16T00:00:00",
+                "time": "14:00:00"
+            },
+            {
+                "service": "Gel polish removal (with membership card)",
+                "date": "2024-12-16T00:00:00",
+                "time": "14:00:00"
+            }
+        ]
+    },
+    "1677267958": {
+        "user_id": 1677267958,
+        "language": "en",
+        "selected_service": null,
+        "selected_date": null,
+        "selected_time": null,
+        "last_interaction": "2024-12-16T13:33:13.544391",
+        "appointments": [
+            {
+                "service": "Design 500",
+                "date": "2024-12-17T00:00:00",
+                "time": "11:00:00"
+            },
+            {
+                "service": "Manicure (without membership card)",
+                "date": "2024-12-19T00:00:00",
+                "time": "13:00:00"
+            },
+            {
+                "service": "Design 300",
+                "date": "2024-12-19T00:00:00",
+                "time": "14:00:00"
+            }
+        ]
+    },
+    "1544638319": {
+        "user_id": 1544638319,
+        "language": "en",
+        "selected_service": null,
+        "selected_date": null,
+        "selected_time": null,
+        "last_interaction": "2024-12-16T14:16:58.632988",
+        "appointments": []
+    },
+    "7514197369": {
+        "user_id": 7514197369,
+        "language": "en",
+        "selected_service": "Gel polish application (hands, with membership card)",
+        "selected_date": "2024-12-19T00:00:00",
+        "selected_time": "09:00:00",
+        "last_interaction": "2024-12-16T18:18:00.438978",
+        "appointments": [
+            {
+                "service": "Gel polish application (hands, with membership card)",
+                "date": "2024-12-19T00:00:00",
+                "time": "09:00:00"
+            }
+        ]
+    }
+}
